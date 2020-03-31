@@ -1,0 +1,9 @@
+<config>
+  <!-- Configuration file created by FAHClient on 2020-03-30T19:54:28Z -->
+  <user value='boteam'/>
+  <team value='256561'/>
+  <passkey value='80c71dd6f690b6a580c71dd6f690b6a5'/>
+  <smp value='true'/>
+  <gpu value='true'/>
+</config>
+
